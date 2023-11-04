@@ -1,6 +1,8 @@
 - 👋 Hi, I’m $r@v@n
 - 👀 I’m interested in learning new topic every day. I love watching Ted - Ed videos, Bubble Tea ...
-- 🌱 I’m currently learning Power BI Reporting..
+- CA PPM 15.x certified developer
+- 🌱 Full stack engineer
+- 👀 AWS certified developer
 
 <!---
 SravanSakkhari/SravanSakkhari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
